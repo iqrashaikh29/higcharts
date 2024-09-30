@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|c:\\users\\ishaikh1\\downloads\\moviesapi\\moviesapi\\moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|c:\\users\\ishaikh1\\downloads\\moviesapi\\moviesapi\\moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|c:\\users\\ishaikh1\\downloads\\moviesapi\\moviesapi\\moviesapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|c:\\users\\ishaikh1\\downloads\\moviesapi\\moviesapi\\moviesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|c:\\users\\ishaikh1\\downloads\\moviesapi\\moviesapi\\moviesapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96CB119-5981-491F-8AF1-D299FFF83D73}|MoviesApi\\MoviesApi.csproj|solutionrelative:moviesapi\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MoviesApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\appsettings.json",
+              "RelativeToolTip": "MoviesApi\\appsettings.json",
+              "ViewState": "AgIAAAEAAABgMzMzMzMbwAkAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-28T07:16:37.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Program.cs",
+              "RelativeToolTip": "MoviesApi\\Program.cs",
+              "ViewState": "AgIAABoAAABQMzMzMzMLwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:15:14.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesApi\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABMAAAAgYmZmZmYSwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:10:39.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Models\\MovieContext.cs",
+              "RelativeToolTip": "MoviesApi\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAAAAAC0MjMzMzMLwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:08:59.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MoviesApi\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ishaikh1\\Downloads\\MoviesApi\\MoviesApi\\MoviesApi\\Models\\Movie.cs",
+              "RelativeToolTip": "MoviesApi\\Models\\Movie.cs",
+              "ViewState": "AgIAAAcAAAAoZmZmZmYSwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:03:25.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
